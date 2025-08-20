@@ -1,0 +1,11 @@
+pandoc: 2.9.2.1
+pkgdown: 2.1.3
+pkgdown_sha: ~
+articles:
+  attrib: attrib.html
+  nowcast: nowcast.html
+  statistical_properties: statistical_properties.html
+last_built: 2025-08-20T12:56Z
+urls:
+  reference: https://www.csids.no/attrib/reference
+  article: https://www.csids.no/attrib/articles
