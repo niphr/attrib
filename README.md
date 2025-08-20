@@ -1,5 +1,8 @@
 # attrib <a href="https://www.csids.no/attrib/"><img src="man/figures/logo.png" align="right" width="120" /></a>
 
+[![CRAN status](https://www.r-pkg.org/badges/version/attrib)](https://cran.r-project.org/package=attrib)
+[![CRAN downloads](https://cranlogs.r-pkg.org/badges/attrib)](https://cran.r-project.org/package=attrib)
+
 ## Overview 
 
 [attrib](https://www.csids.no/attrib/) is designed to make the process of calculating attributable mortalities and incident risk ratios efficient and easy.
