@@ -10,6 +10,6 @@
     "attrib ",
     version,
     "\n",
-    "https://www.csids.no/attrib/"
+    "https://niphr.github.io/attrib/"
   ))
 }
